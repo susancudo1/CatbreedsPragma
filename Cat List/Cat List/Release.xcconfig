@@ -1,0 +1,12 @@
+//
+//  Release.xcconfig
+//  Cat List
+//
+//  Created by Javier Susa on 11/02/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_MAIN_URL = https:\/\/api.thecatapi.com/v1/
+API_KEY = bda53789-d59e-46cd-9bc4-2936630fde39
